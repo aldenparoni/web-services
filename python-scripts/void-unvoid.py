@@ -2,7 +2,7 @@ from unifier_requests.bplib import uxcor
 
 env = 'prod'
 shells = [
-    'ART', 'DB120', 'DB200', 'DB320', 'DB450', 'DBB171', 'DBB271', 'DBB371', 'DBB385',
+    'DB200', 'DB320', 'DB450', 'DBB171', 'DBB271', 'DBB371', 'DBB385',
     'DBB505', 'DBB511', 'DBB511.1', 'DBB511.2', 'DBB525', 'DBB602', 'DBB701', 'DBB701.1',
     'DBB921', 'DBOM920', 'DBOM9201', 'FD140', 'FD240', 'FD340', 'FD430', 'FD440', 'FD530',
     'FD550', 'FD700', 'FD701', 'HART201', 'HART202', 'MI900', 'MI930', 'MI940', 'MM920', 
