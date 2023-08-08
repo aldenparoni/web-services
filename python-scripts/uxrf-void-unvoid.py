@@ -4,7 +4,7 @@ env = 'prod'
 shells = [
     'DB120', 'DB200', 'DB320', 'DB450', 'DBB171', 'DBB271', 'DBB371', 'DBB385',
     'DBB505', 'DBB511', 'DBB511.1', 'DBB511.2', 'DBB525', 'DBB602', 'DBB701',
-    'DBB701.1', 'DBB921', 'DBOM920', 'DBOM9201', 'FD140', 'FD240', 'FD340',
+    'DBB701.1', 'DBOM920', 'DBOM9201', 'FD140', 'FD240', 'FD340',
     'FD430', 'FD440', 'FD530', 'FD550', 'MI930', 'MI940', 'MM905'
 ]
 folder = r'C:\Users\alden.paroni\uxrf-void-unvoid'
